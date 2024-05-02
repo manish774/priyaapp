@@ -1,0 +1,9 @@
+.app-main-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-form-container {
+  width: 100%;
+}
