@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priyaapp/static/css/main.e80b77d8.css",
+    "main.js": "/priyaapp/static/js/main.20ea8d33.js",
+    "static/js/453.49834109.chunk.js": "/priyaapp/static/js/453.49834109.chunk.js",
+    "index.html": "/priyaapp/index.html",
+    "main.e80b77d8.css.map": "/priyaapp/static/css/main.e80b77d8.css.map",
+    "main.20ea8d33.js.map": "/priyaapp/static/js/main.20ea8d33.js.map",
+    "453.49834109.chunk.js.map": "/priyaapp/static/js/453.49834109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80b77d8.css",
+    "static/js/main.20ea8d33.js"
+  ]
+}
