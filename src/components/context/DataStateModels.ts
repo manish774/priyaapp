@@ -2,11 +2,12 @@ import { Dispatch } from "react";
 
 export type ICategoryProps = {
   name: string;
-  id: number;
+  id?: string;
+  isEdit?: boolean;
+  oldValue?: string;
 };
 
 export type IItems = ICategoryProps & {
-  category_id: number | string;
   price: number | string;
   description: string;
   category: string;
