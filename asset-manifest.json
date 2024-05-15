@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/priyaapp/static/css/main.10153664.css",
-    "main.js": "/priyaapp/static/js/main.6e530219.js",
+    "main.css": "/priyaapp/static/css/main.d1ee3360.css",
+    "main.js": "/priyaapp/static/js/main.4b83ae1e.js",
     "static/js/453.49834109.chunk.js": "/priyaapp/static/js/453.49834109.chunk.js",
     "index.html": "/priyaapp/index.html",
-    "main.10153664.css.map": "/priyaapp/static/css/main.10153664.css.map",
-    "main.6e530219.js.map": "/priyaapp/static/js/main.6e530219.js.map",
+    "main.d1ee3360.css.map": "/priyaapp/static/css/main.d1ee3360.css.map",
+    "main.4b83ae1e.js.map": "/priyaapp/static/js/main.4b83ae1e.js.map",
     "453.49834109.chunk.js.map": "/priyaapp/static/js/453.49834109.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10153664.css",
-    "static/js/main.6e530219.js"
+    "static/css/main.d1ee3360.css",
+    "static/js/main.4b83ae1e.js"
   ]
 }
