@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/priyaapp/static/css/main.060396c5.css",
+    "main.css": "/priyaapp/static/css/main.a1934814.css",
     "main.js": "/priyaapp/static/js/main.29be2c94.js",
     "static/js/453.49834109.chunk.js": "/priyaapp/static/js/453.49834109.chunk.js",
+    "static/media/Premium Vector _ Cute bride and groom cartoon for wedding invitation card template.jpg": "/priyaapp/static/media/Premium Vector _ Cute bride and groom cartoon for wedding invitation card template.da24f65188bcca608713.jpg",
     "index.html": "/priyaapp/index.html",
-    "main.060396c5.css.map": "/priyaapp/static/css/main.060396c5.css.map",
+    "main.a1934814.css.map": "/priyaapp/static/css/main.a1934814.css.map",
     "main.29be2c94.js.map": "/priyaapp/static/js/main.29be2c94.js.map",
     "453.49834109.chunk.js.map": "/priyaapp/static/js/453.49834109.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.060396c5.css",
+    "static/css/main.a1934814.css",
     "static/js/main.29be2c94.js"
   ]
 }
